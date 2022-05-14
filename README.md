@@ -1,6 +1,7 @@
 ### Olá! 👋
 
-- 🌱 Estudando Desenvolvimento Web - HTML, CSS, Javascript e React
+- 🌱 Estudando no Front-end - HTML, CSS, Javascript, Typescript e React
+- 🌱 Estudando no Back-end - Java e SpringBoot
 
 
 <div align="center">
